@@ -445,7 +445,7 @@ font-weight: bold;
 }
 
 .category-nav button:hover {
-    background-color: #fbe9ce;
+    background-color: #007bff;
     font-size: 1.0rem;
 }
 
@@ -491,7 +491,7 @@ font-weight: bold;
         position: sticky;
         top: 70px;
         /* Adjust to match .restaurant-info height */
-        background-color: #fff;
+        background-color:#ffffff;
         padding: 3px 0px;
         /* display: flex; */
     }
