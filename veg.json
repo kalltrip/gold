@@ -4,7 +4,6 @@
     "name": "Paneer Tikka",
     "serving": "Serves 2 adults",
     "price": 250,
-    "orignal": "",
     "offer": "20%Off",
     "rating": 4.5,
     "description": "Succulent cubes of paneer marinated in aromatic spices and grilled to perfection. A classic vegetarian delight.",
@@ -36,8 +35,8 @@
     "description": "Fragrant basmati rice cooked with mixed vegetables and aromatic spices. A festive one-pot meal.",
     "category": "South Indian",
     "veg": true,
-    "startTime": 17,
-    "endTime": 24
+    "startTime": 12,
+    "endTime": 23
   },
   {
     "id": "1004",
