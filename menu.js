@@ -42,12 +42,9 @@ function populateMenu(data, containerId) {
                 <div class="dish-details">
                     <div class="dish-header">
                         <span class="dish-name">${dish.name}</span>
+                         <span class="dish-price">Rs ${dish.price} </span>
                     </div>
-                    <div class="dish-pricing">
-                        <span class="dish-price">Rs ${dish.price} </span>
-                        <span class="original-price"> ${(dish.price * 1.2).toFixed(0)} </span>
-                        <div class="offer">${dish.offer || ""}</div>
-                    </div>
+                    
                     <span class="dish-rating">${stars} (${dish.rating})</span>
                     <p class="dish-description" 
                         data-full="${fullDesc}" 
